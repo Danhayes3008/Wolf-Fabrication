@@ -1,8 +1,11 @@
-## Wolf Fabrications
+# Wolf Fabrications
 
-### Project status: 
+## Project status: 
  - [x] Development
  - [  ] Deployed
+
+ ## Description:
+ Wolf Fabrications is a manufacturing company I made up for the purpose of creating a homepage to add to my portfolio. The site will designed to look like it has multiple pages but in reality it will contain only one. This can in future be made into a full website. Wolf Fabrications is a 3d printing firm capable of making plastic and metalic products.  
 
 
  ## Technologies:

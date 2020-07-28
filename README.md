@@ -25,3 +25,11 @@ To run this site locally select the dropdown menu called clone then click on dow
 
 #### JavaScript:
 JavaScript is used to handle the back end of this project.
+
+## Roadmap:
+In future updates of this project I plan to include the following:
+ 
+ - products page
+ - news page
+ - eco plan page
+ - contact us page

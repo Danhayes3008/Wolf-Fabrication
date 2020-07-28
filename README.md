@@ -1,4 +1,9 @@
 # Wolf Fabrications
+![GitHub repo size](https://img.shields.io/github/repo-size/danhayes3008/Wolf-Fabrication?logo=GITHUB)
+![GitHub language count](https://img.shields.io/github/languages/count/danhayes3008/Wolf-Fabrication?color=blue&logo=github)
+![GitHub commits since latest release (by date)](https://img.shields.io/github/commits-since/danhayes3008/Wolf-Fabrication/16d45b8?color=green&logo=github)
+![GitHub issues](https://img.shields.io/github/issues/danhayes3008/Wolf-Fabrication?color=red&logo=github)
+
 
 ## Project status: 
  - [x] Development

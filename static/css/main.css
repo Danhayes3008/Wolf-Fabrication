@@ -49,7 +49,7 @@ nav {
 
 /* Body */
 body{
-    overflow: none;
+    overflow-x: auto;
 }
 .header{
     padding: 20px;

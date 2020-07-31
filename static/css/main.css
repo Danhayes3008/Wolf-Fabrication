@@ -5,9 +5,11 @@
   box-sizing: border-box;
 }
 /* Header */
-.logo{
-    display: inline-block;
-    font-size: 30px;
+.logo {
+  display: inline-block;
+  font-size: 30px;
+  color: azure;
+  padding-right: 10px;
 }
 nav {
   width: 100%;
@@ -20,12 +22,20 @@ nav {
   display: inline-block;
   text-align: center;
 }
+.nav-item a{
+    text-decoration: none;
+    color: white;
+}
+.nav-item a:hover{
+    color: black;
+}
 .navbar-list {
   padding: 0px;
+  float: right;
 }
-.nav-links{
-    display: inline-block;
-    font-size: 30px;
+.nav-links {
+  display: inline-block;
+  font-size: 30px;
 }
 
 /* Body */

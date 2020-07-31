@@ -9,7 +9,7 @@
   display: inline-block;
   font-size: 30px;
   color: azure;
-  padding-right: 10px;
+  padding-left: 20px;
 }
 nav {
   width: 100%;
@@ -34,8 +34,9 @@ nav {
   float: right;
 }
 .nav-links {
-  display: inline-block;
   font-size: 30px;
+  float: right;
+  padding-right: 20px;
 }
 
 /* Body */

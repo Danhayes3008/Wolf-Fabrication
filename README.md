@@ -33,3 +33,9 @@ In future updates of this project I plan to include the following:
  - news page
  - eco plan page
  - contact us page
+
+ ## Authors and Acknowledgments:
+
+ ### Images:
+
+ The 3dPrinter.jpeg image is a free to use image i found on google images. I have not altered the image from it's original state, but have renamed it for easier storing and searching in my folders. The Licance for this image can be found at <a href="https://commons.wikimedia.org/wiki/File:TOSY_Parallel_Robot.JPG">commons.wikimedia.org</a>. The use of this image is for education purposes and will not be used commercially.

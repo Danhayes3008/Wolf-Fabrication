@@ -51,6 +51,10 @@ nav {
 body{
     overflow-x: auto;
 }
+.content-img{
+  width: 30%;
+  float: right;
+}
 .header{
     padding: 20px;
     width: 100%;
@@ -60,6 +64,9 @@ body{
     width: 75%;
     margin-left: 12.5%;
     height: 600px;
+}
+.mid-top{
+  height: auto;
 }
 .slogan{
     position: absolute;

@@ -52,7 +52,8 @@ body{
     overflow-x: auto;
 }
 .content-img{
-  width: 30%;
+  width: 50%;
+  height: inherit;
   float: right;
 }
 .header{
@@ -66,7 +67,17 @@ body{
     height: 600px;
 }
 .mid-top{
-  height: auto;
+  height: 380px;
+  background-color: #6F5E76;
+}
+.mid-top p{
+  width: 50%;
+  padding-top: 5%;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+  color: white;
+  opacity: 0.7;
 }
 .slogan{
     position: absolute;

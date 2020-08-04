@@ -57,14 +57,13 @@ body{
   float: right;
 }
 .header{
-    padding: 20px;
     width: 100%;
-    height: auto;
+    height: 580px;
 }
 .hdr-img{
-    width: 75%;
-    margin-left: 12.5%;
-    height: 600px;
+    width: 100%;
+    height: inherit;
+    opacity: 0.7;
 }
 .mid-top{
   height: 380px;
@@ -83,13 +82,12 @@ body{
 }
 .slogan{
     position: absolute;
-    top: 40%;
+    top: 30%;
     width: 100%;
     text-align: center;
-    color: white;
+    color: darkblue;
     font-size: 60px;
     font-style: italic;
-    opacity: 0.7;
 }
 
 /* Footer */

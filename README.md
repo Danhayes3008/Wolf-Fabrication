@@ -39,3 +39,5 @@ In future updates of this project I plan to include the following:
  ### Images:
 
  The 3dPrinter.jpeg image is a free to use image i found on google images. I have not altered the image from it's original state, but have renamed it for easier storing and searching in my folders. The Licance for this image can be found at <a href="https://commons.wikimedia.org/wiki/File:TOSY_Parallel_Robot.JPG">commons.wikimedia.org</a>. The use of this image is for education purposes and will not be used commercially.
+
+ I found the welding image on google images with the search setting set to display all images that could be use for none commercial reuse. The image comes from <a href="https://pxhere.com/en/photo/123237">pxhere.com</a> As mentioned in the site this images is from, no attribution is required but i felt it was best to do so anyways.

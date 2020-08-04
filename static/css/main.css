@@ -50,14 +50,17 @@ nav {
 /* Body */
 body{
     overflow-x: hidden;
+    background-color: #6F5E76;
 }
 .content-img1{
   width: 50%;
+  padding: 1%;
   height: inherit;
   float: right;
 }
 .content-img2{
   width: 50%;
+  padding: 1%;
   height: inherit;
   float: left;
 }
@@ -72,11 +75,9 @@ body{
 }
 .mid-top{
   height: 380px;
-  background-color: #6F5E76;
 }
 .mid-center{
   height: 380px;
-  background-color: #94829B;
 }
 .mid-top p{
   width: 50%;

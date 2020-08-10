@@ -107,6 +107,12 @@ body{
   display: none;
   cursor: pointer;
 }
+.menu div {
+  width: 25px;
+  height: 3px;
+  background-color: rgb(226, 226, 226);
+  margin: 5px;
+}
 .slogan{
     position: absolute;
     top: 30%;

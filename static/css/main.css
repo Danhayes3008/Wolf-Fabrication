@@ -3,6 +3,7 @@
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
+  overflow-x: hidden;
 }
 /* Header */
 .logo {
@@ -50,7 +51,7 @@ nav {
 
 /* Body */
 body{
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
     background-color: #6F5E76;
 }
 .content-img1{
@@ -142,9 +143,9 @@ body{
   }
 }
 @media (max-width: 768px) {
-  body{
-    overflow-x: hidden;
-}
+   /* body{
+     overflow-x: hidden; 
+  } */
 /* navbar */
   .nav-links{
     position: absolute;
@@ -198,9 +199,9 @@ body{
 /* footer */
 }
 @media (max-width: 375px){
-  body{
+  /* body{
     overflow-x: hidden;
-}
+  } */
   .slogan{
     top: 25%;
     color: white;

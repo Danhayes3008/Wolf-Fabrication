@@ -170,5 +170,13 @@ body{
   margin-right: 15px;
 }
 /* body */
+.header{
+  height: 244px;
+}
+.slogan{
+  top: 22%;
+  color: white;
+  font-size: 30px;
+}
 /* footer */
 }

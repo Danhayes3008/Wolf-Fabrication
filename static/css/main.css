@@ -42,6 +42,7 @@ nav {
   float: right;
 }
 .nav-links {
+  display: flex;
   font-size: 30px;
   float: right;
   padding-right: 20px;
@@ -102,7 +103,10 @@ body{
   color: white;
   opacity: 0.7;
 }
-
+.menu {
+  display: none;
+  cursor: pointer;
+}
 .slogan{
     position: absolute;
     top: 30%;
@@ -125,3 +129,9 @@ body{
   padding: 15px;
 }
 /* Media Queries */
+@media (max-width: 1024px) {
+  .nav-links {
+    display: flex;
+    width: 50%;
+  }
+}

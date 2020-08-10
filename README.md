@@ -42,4 +42,6 @@ In future updates of this project I plan to include the following:
 
  I found the welding image on google images with the search setting set to display all images that could be use for none commercial reuse. The image comes from <a href="https://pxhere.com/en/photo/123237">pxhere.com</a> As mentioned in the site this images is from, no attribution is required but i felt it was best to do so anyways.
 
- The scrap.jpg image was found the same way as the welding one, but this image belongs to <a href="https://commons.wikimedia.org/wiki/File:HSS_Twist_Drill_into_Aluminium_with_Lubricant.jpg">JJ Harrison</a>. All rights to the image belong to Mr Harrison. The only change that has been made is the name it is saved as to make it easier to find in the images folder. 
+ The scrap.jpg image was found the same way as the welding one, but this image belongs to <a href="https://commons.wikimedia.org/wiki/File:HSS_Twist_Drill_into_Aluminium_with_Lubricant.jpg">JJ Harrison</a>. All rights to the image belong to Mr Harrison. The only change that has been made is the name it is saved as to make it easier to find in the images folder.
+
+ My cnc image for this project is also a none attribution required image from <a href="https://pxhere.com/en/photo/771478">pxhere.com</a>.

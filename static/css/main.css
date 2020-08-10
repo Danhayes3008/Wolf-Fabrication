@@ -178,6 +178,9 @@ body{
 .center1{
   height: fit-content;
 }
+.center2{
+  display: none;
+}
 .center1 p{
   width: 100%;
   font-size: 15px;

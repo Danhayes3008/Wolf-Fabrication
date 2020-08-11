@@ -141,8 +141,18 @@ body {
 @media(max-width: 1440px){
   /* navbar */
   /* body */
+  .center1{
+    height: 300px;
+  }
+  .center2{
+    height: 300px;
+  }
   .header{
     height: 460px;
+  }
+  .slogan{
+    top: 260px;
+    color: white;
   }
   /* footer */
 }

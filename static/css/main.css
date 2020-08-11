@@ -139,15 +139,22 @@ body {
 @media (max-width: 1024px) {
   .nav-links {
     display: flex;
-    width: 50%;
+    width: fit-content;
   }
 }
 @media (max-width: 768px) {
+  /* navbar */
+  .nav-links{
+    width: fit-content;
+    padding-right: 20px;
+  }
+  /* body */
   .slogan {
     top: 22%;
     color: white;
     font-size: 30px;
   }
+  /* footer */
 }
 @media (max-width: 425px) {
   /* navbar */

@@ -136,6 +136,14 @@ body {
   padding: 15px;
 }
 /* Media Queries */
+@media(max-width: 1440px){
+  /* navbar */
+  /* body */
+  .header{
+    height: 460px;
+  }
+  /* footer */
+}
 @media (max-width: 1024px) {
   /* navbar */
   .nav-links {

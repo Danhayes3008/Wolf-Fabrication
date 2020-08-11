@@ -45,3 +45,5 @@ In future updates of this project I plan to include the following:
  The scrap.jpg image was found the same way as the welding one, but this image belongs to <a href="https://commons.wikimedia.org/wiki/File:HSS_Twist_Drill_into_Aluminium_with_Lubricant.jpg">JJ Harrison</a>. All rights to the image belong to Mr Harrison. The only change that has been made is the name it is saved as to make it easier to find in the images folder.
 
  My cnc image for this project is also a none attribution required image from <a href="https://pxhere.com/en/photo/771478">pxhere.com</a>.
+
+ The construction image is to be used for the 404 page i have made to replace pages currently being worked on. I found this image through the same process as all the others. It's Licance can be found at <a href="https://www.publicdomainpictures.net/en/view-image.php?image=155339&picture=background-wallpaper">publicdomainpictures.net</a>.

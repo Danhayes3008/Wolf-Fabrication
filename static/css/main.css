@@ -137,10 +137,13 @@ body {
 }
 /* Media Queries */
 @media (max-width: 1024px) {
+  /* navbar */
   .nav-links {
     display: flex;
     width: fit-content;
   }
+  /* body */
+  /* footer */
 }
 @media (max-width: 768px) {
   /* navbar */

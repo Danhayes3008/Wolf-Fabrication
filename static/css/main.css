@@ -149,6 +149,21 @@ body {
     padding-right: 20px;
   }
   /* body */
+  .center1{
+    height: 190px;
+  }
+  .center1 p{
+    font-size: 15px;
+  }
+  .center2{
+    height: 190px;
+  }
+  .center2 p{
+    font-size: 15px;
+  }
+  .header{
+    height: 260px;
+  }
   .slogan {
     top: 22%;
     color: white;

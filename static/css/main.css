@@ -25,6 +25,7 @@ nav {
   background-color: rgb(167, 34, 127);
   padding: 0;
   line-height: 2;
+  overflow-y: hidden;
 }
 .nav-item {
   display: inline-block;
@@ -69,6 +70,7 @@ body {
 .header {
   width: 100%;
   height: 580px;
+  overflow-y: hidden;
 }
 .hdr-img {
   width: 100%;

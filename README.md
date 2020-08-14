@@ -36,6 +36,10 @@ In future updates of this project I plan to include the following:
 
  ## Authors and Acknowledgments:
 
+ ### Help with my code:
+
+ I learned how to add a go back option for my 404SiteConstruction.html page. The code i have used on line 14 in the 404SiteConstruction.html page was found at <a href="https://stackoverflow.com/questions/8814472/how-to-make-an-html-back-link">Stack Overflow</a>. It was a user called apiguy who provided the imformation.
+
  ### Images:
 
  The 3dPrinter.jpeg image is a free to use image i found on google images. I have not altered the image from it's original state, but have renamed it for easier storing and searching in my folders. The Licance for this image can be found at <a href="https://commons.wikimedia.org/wiki/File:TOSY_Parallel_Robot.JPG">commons.wikimedia.org</a>. The use of this image is for education purposes and will not be used commercially.
